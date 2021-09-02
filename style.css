@@ -274,6 +274,7 @@ img {
 
 .single-box:hover{
     background-color: #D9D7D5;
+	cursor: pointer;
 }
 .single-box:hover .banner-btn {
     background-color: #fff;
